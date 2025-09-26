@@ -44,7 +44,7 @@
     "@backstage/plugin-techdocs-backend": "^1.11.1",
     "@dynatrace/backstage-plugin-dql-backend": "^2.2.0",
     "app": "link:../app",
-    "dockerode": "^4.0.0",
+    "dockerode": "^4.0.5",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "pg": "^8.3.0",
