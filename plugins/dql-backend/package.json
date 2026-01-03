@@ -35,9 +35,9 @@
   },
   "dependencies": {
     "@backstage/config": "^1.2.0",
-    "@dynatrace/backstage-plugin-dql-common": "^2.2.0",
+    "@dynatrace/backstage-plugin-dql-common": "^1.0.0",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-promise-router": "^4.1.0",
     "https-proxy-agent": "7.0.5",
     "node-fetch": "^2.6.7",
